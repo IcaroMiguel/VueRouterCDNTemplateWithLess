@@ -1,11 +1,11 @@
-# Welcome to Vue Router CDN Template 👋
-![Version](https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000)
+# Welcome to Vue Router CDN Template With Less 👋
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: patogordoo](https://img.shields.io/twitter/follow/patogordoo.svg?style=social)](https://twitter.com/patogordoo)
 
-> A simple template to work with Vue and Vue Router by cdn.
+> A simple template to work with Vue, Vue Router and Less, by cdn.
 
-### ✨ [Demo](https://vue-router-template.ga)
+### ✨ [Demo](https://less.vue-router-template.ga)
 
 ## Usage
 
